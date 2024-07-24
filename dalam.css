@@ -37,7 +37,7 @@ body{
     position: relative;
     display: flex;
     align-items: center;
-    height: 20vh;
+    height: 10vh;
     transform-style: preserve-3d;
 }
 .box{
