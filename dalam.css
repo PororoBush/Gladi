@@ -11,7 +11,6 @@ body{
     text-align: center;
     overflow: hidden;
     margin: auto;
-    /* background-color: aqua; */
 }
 .container2{
     display: flex;
